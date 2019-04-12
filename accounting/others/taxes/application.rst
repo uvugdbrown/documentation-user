@@ -22,8 +22,8 @@ To define fiscal positions, go to
 
 .. note::
     If you use Odoo Accounting, you can also map the Income/Expense accounts according to the fiscal
-    position. For example, in some countries, revenues from sales are not posted in
-    the same account than revenues from sales in foreign countries.
+    position. For example, in some countries, revenues from sales in foreign countries are not posted in
+    the same account as revenues from domestic sales.
 
 Adapt taxes to your customer status
 ===================================
